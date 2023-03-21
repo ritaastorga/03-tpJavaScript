@@ -25,6 +25,6 @@ function solicitarDato() {
 function escribirPerimetro(a, b) {
   let perimetro = 2 * (a + b);
   document.write(
-    "el perimetro de un rectángulo " + a + " y " + b + " es " + perimetro
+    "El perimetro de un rectángulo " + a + " y " + b + " es " + perimetro
   );
 }
